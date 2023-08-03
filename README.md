@@ -1,2 +1,2 @@
-# Patika Frontend Kursu
-Bu repo içinde Patika Frontend kursunda derslerde yapılan projeler ve ödevler yer almaktadır.
+# Patika Backend Kursu
+Bu repo içinde Patika Backend kursunda derslerde yapılan projeler ve ödevler yer almaktadır.
